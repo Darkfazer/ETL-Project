@@ -1,0 +1,10 @@
+2025-05-31 10:35:57,823 [ERROR] Error loading cleaned data: [Errno 2] No such file or directory: 'C:\\Users\\bboyo\\Desktop\\ETL Project\\data\\processed\\cleaned_data.csv'
+2025-05-31 10:35:57,823 [ERROR] Transformation pipeline failed: [Errno 2] No such file or directory: 'C:\\Users\\bboyo\\Desktop\\ETL Project\\data\\processed\\cleaned_data.csv'
+2025-05-31 10:37:00,415 [INFO] Successfully loaded 100 rows from C:\Users\bboyo\Desktop\ETL Project\data\processed\cleaned_data.csv
+2025-05-31 10:37:00,415 [INFO] Starting data transformations
+2025-05-31 10:37:00,421 [INFO] Transformation complete. Final shape: (100, 7)
+2025-05-31 10:37:00,427 [INFO] Successfully saved transformed data to C:\Users\bboyo\Desktop\ETL Project\data\processed\transformed_data.csv
+2025-05-31 10:51:20,660 [INFO] Successfully loaded 100 rows from C:\Users\bboyo\Desktop\ETL Project\data\processed\cleaned_data.csv
+2025-05-31 10:51:20,661 [INFO] Starting data transformations
+2025-05-31 10:51:20,665 [INFO] Transformation complete. Final shape: (100, 7)
+2025-05-31 10:51:20,671 [INFO] Successfully saved transformed data to C:\Users\bboyo\Desktop\ETL Project\data\processed\transformed_data.csv
