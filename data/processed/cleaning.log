@@ -16,3 +16,15 @@
 2025-05-31 10:51:26,794 [INFO] Removed 0 duplicate timestamps
 2025-05-31 10:51:26,795 [INFO] Cleaning complete. Final shape: (100, 4)
 2025-05-31 10:51:26,798 [INFO] Saved cleaned data to C:\Users\bboyo\Desktop\ETL Project\data\processed\cleaned_data.csv
+2025-06-01 11:22:16,263 [INFO] Loaded 100 rows from C:\Users\bboyo\Desktop\ETL Project\data\processed\combined_raw_data.csv
+2025-06-01 11:22:16,264 [INFO] Standardized column names
+2025-06-01 11:22:16,276 [INFO] Removed 0 rows with invalid timestamps
+2025-06-01 11:22:16,279 [INFO] Removed 0 duplicate timestamps
+2025-06-01 11:22:16,281 [INFO] Cleaning complete. Final shape: (100, 4)
+2025-06-01 11:22:16,287 [INFO] Saved cleaned data to C:\Users\bboyo\Desktop\ETL Project\data\processed\cleaned_data.csv
+2025-06-01 11:34:08,550 [INFO] Loaded 100 rows from C:\Users\bboyo\Desktop\ETL Project\data\processed\combined_raw_data.csv
+2025-06-01 11:34:08,550 [INFO] Standardized column names
+2025-06-01 11:34:08,554 [INFO] Removed 0 rows with invalid timestamps
+2025-06-01 11:34:08,555 [INFO] Removed 0 duplicate timestamps
+2025-06-01 11:34:08,557 [INFO] Cleaning complete. Final shape: (100, 4)
+2025-06-01 11:34:08,561 [INFO] Saved cleaned data to C:\Users\bboyo\Desktop\ETL Project\data\processed\cleaned_data.csv

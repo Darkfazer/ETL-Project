@@ -8,3 +8,11 @@
 2025-05-31 10:51:20,661 [INFO] Starting data transformations
 2025-05-31 10:51:20,665 [INFO] Transformation complete. Final shape: (100, 7)
 2025-05-31 10:51:20,671 [INFO] Successfully saved transformed data to C:\Users\bboyo\Desktop\ETL Project\data\processed\transformed_data.csv
+2025-06-01 11:23:01,604 [INFO] Successfully loaded 100 rows from C:\Users\bboyo\Desktop\ETL Project\data\processed\cleaned_data.csv
+2025-06-01 11:23:01,605 [INFO] Starting data transformations
+2025-06-01 11:23:01,617 [INFO] Transformation complete. Final shape: (100, 7)
+2025-06-01 11:23:01,621 [INFO] Successfully saved transformed data to C:\Users\bboyo\Desktop\ETL Project\data\processed\transformed_data.csv
+2025-06-01 11:34:17,960 [INFO] Successfully loaded 100 rows from C:\Users\bboyo\Desktop\ETL Project\data\processed\cleaned_data.csv
+2025-06-01 11:34:17,960 [INFO] Starting data transformations
+2025-06-01 11:34:17,967 [INFO] Transformation complete. Final shape: (100, 7)
+2025-06-01 11:34:17,974 [INFO] Successfully saved transformed data to C:\Users\bboyo\Desktop\ETL Project\data\processed\transformed_data.csv

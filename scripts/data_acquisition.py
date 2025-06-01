@@ -11,7 +11,6 @@ logging.basicConfig(
 )
 
 def ensure_directories():
-    """Make sure required directories exist"""
     for folder in ["raw", "processed"]:
         os.makedirs(get_data_path(folder), exist_ok=True)
 
@@ -26,7 +25,6 @@ def fetch_sample_data():
     })
 
 def save_raw_data(df):
-    """Save raw data (matches pipeline.py expectations)"""
     output_path = get_data_path("processed", "combined_raw_data.csv")
     df.to_csv(output_path, index=False)
     logging.info(f"Saved raw data to {output_path}")
